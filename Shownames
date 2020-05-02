@@ -2,7 +2,7 @@
 #include<conio.h>
 'int main()'
 {
-    clrscr();
-    printf("Sonu");
-    getch();
+    'clrscr();'
+    'printf("Sonu");'
+    'getch();'
 }

@@ -1,2 +1,0 @@
-# ShowName
-Show your name
